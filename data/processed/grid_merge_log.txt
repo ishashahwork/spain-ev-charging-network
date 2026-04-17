@@ -1,0 +1,45 @@
+=== i-DE ===
+  Detected cols: utm_x=Coordenada UTM X, utm_y=Coordenada UTM Y, cap=Capacidad firme disponible (MW)
+  Valid rows after UTM filter: 3017
+  UTM X: 111230â€“794031
+  UTM Y: 4141407â€“4808498
+  After WGS84 bbox filter: 3017 substations
+  Lat: 37.41â€“43.43
+  Lon: -7.53â€“0.47
+  Capacity (MW): 0.0â€“112.3, mean=1.0
+
+=== Endesa ===
+  Detected cols: utm_x=Coordenada UTM X, utm_y=Coordenada UTM Y, cap=Capacidad firme disponible (MW)
+  Valid rows after UTM filter: 1732
+  UTM X: 104132â€“948706
+  UTM Y: 3990502â€“4822690
+  After WGS84 bbox filter: 1732 substations
+  Lat: 36.03â€“43.45
+  Lon: -7.89â€“2.41
+  Capacity (MW): 0.0â€“56.0, mean=0.4
+
+Total merged substations: 4749
+By distributor:
+distributor_network
+i-DE      3017
+Endesa    1732
+
+Saved to data/processed/grid_substations.gpkg
+Saved to data/processed/grid_substations.csv
+
+Capacity summary (MW):
+count    4749.00
+mean        0.78
+std         4.59
+min         0.00
+25%         0.00
+50%         0.00
+75%         0.00
+max       112.34
+
+=== Viesgo ===
+Viesgo covers: Cantabria, Asturias, parts of Murcia.
+Their interactive map requires manual data export.
+Fallback: use CNMC territorial data + i-DE/Endesa coverage as proxy.
+URL: https://www.viesgo.com/distribucion/mapa-interactivo/
+

@@ -1,0 +1,198 @@
+latitude,longitude,name,operator,n_connectors,connector_types,max_power_kw,total_power_kw,postcode,type_of_site,national_id,country,site_id,source
+41.541513,-4.658719,Aldeamayor - ES Valcarce – El Brizo,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0001,CastillaLeon
+42.244933,-3.7064,SARRACÍN 2- Dir Madrid,EasyCharger,6,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0002,CastillaLeon
+42.061141,-6.642669,Puebla de Sanabria/ COBREROS,EasyCharger,5,"CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2)",,,,,,ES,CAS_0003,CastillaLeon
+42.036158,-4.280604,TORQUEMADA,EasyCharger,6,"CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2)",,,,,,ES,CAS_0004,CastillaLeon
+41.542203,-4.897237,A62 - Tordesillas,EasyCharger,1,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2)",,,,,,ES,CAS_0005,CastillaLeon
+40.41034631,-4.49602501,ADV. MADRID,,2,Mennekes (Type 2),,,,,,ES,CAS_0006,CastillaLeon
+41.489334,-2.538919,0174 - Ayuntamiento de Almazán,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0007,CastillaLeon
+41.623461,-3.687533,Area Tudanca,EasyCharger,11,"CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2)",,,,,,ES,CAS_0008,CastillaLeon
+42.275446,-3.896919,Estepar – ES Valcarce,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0009,CastillaLeon
+42.245823,-3.702886,SARRACÍN 1-Dir. Burgos,EasyCharger,6,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0010,CastillaLeon
+41.188229,-3.583324,PRVE Mirasierra,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0011,CastillaLeon
+41.053032,-4.698921,Galp Arévalo,EasyCharger,6,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0012,CastillaLeon
+41.826118,-5.378892,VILLALPANDO-Complejo El Raso,EasyCharger,8,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0013,CastillaLeon
+41.13253,-4.777463,PRVE Palacios de Goda,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0014,CastillaLeon
+42.025748,-4.548834,"Repsol, Avda. Asturias",Repsol Comercial de Productos Petrolíferos,1,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0015,CastillaLeon
+42.003332,-5.660291,E.S. AVIA CASTILLO BENAVENTE,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0016,CastillaLeon
+40.957454515011,-5.66563073062242,Parkia - Reyes de España,Endesa X Servicios S.L.,2,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0017,CastillaLeon
+40.9469202787263,-5.64182227295196,Carbadis (E. Leclerc),Endesa X Servicios S.L.,4,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0018,CastillaLeon
+42.597169,-5.571681,Independencia.,Senae Energy,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0019,CastillaLeon
+42.5965572,-5.5792125,ORD0003,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0020,CastillaLeon
+42.5965573,-5.5792126,ORD0001,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0021,CastillaLeon
+42.5965571,-5.5792124,ORD0002,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0022,CastillaLeon
+42.603325,-5.579994,Peregrinos.,Senae Energy,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0023,CastillaLeon
+40.302778,-4.553056,Ayuntamiento de Santa María del Tiétar,Ayuntamiento de Santa María del Tiétar,2,Mennekes (Type 2),,,,,,ES,CAS_0024,CastillaLeon
+42.027799,-4.534859,Centro polivalente,Ayuntamiento de Palencia,1,Schuko,,,,,,ES,CAS_0025,CastillaLeon
+42.043614,-4.912684,AYTO VILLARRAMIEL 1,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0026,CastillaLeon
+41.674223,-4.720923,Centrolid,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0027,CastillaLeon
+41.674223,-4.720923,Centrolid,IBERDROLA S.A.,1,CHAdeMO (DC),,,,,,ES,CAS_0028,CastillaLeon
+41.674223,-4.720923,Centrolid,IBERDROLA S.A.,1,CCS Combo (DC),,,,,,ES,CAS_0029,CastillaLeon
+41.655851,-4.737783,Feria Muestras,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0030,CastillaLeon
+41.655851,-4.737783,Feria Muestras,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0031,CastillaLeon
+41.638195,-4.746001,Museo de la ciencia,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0032,CastillaLeon
+41.638195,-4.746001,Museo de la ciencia,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0033,CastillaLeon
+42.007363,-4.510479,Polígono Industrial,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0034,CastillaLeon
+40.1557553794379,-5.24215208932049,Ayuntamiento de Candeleda,Ayuntamiento de Candeleda,2,Mennekes (Type 2),,,,,,ES,CAS_0035,CastillaLeon
+42.012667,-4.518778,Parque Comercial Arambol,,1,Schuko,,,,,,ES,CAS_0036,CastillaLeon
+42.00731,-4.510549,Avenida Comunidad Europea,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0037,CastillaLeon
+40.41034631,-4.49602501,Ayuntamiento de El Tiemblo,Ayuntamiento de El Tiemblo,2,Mennekes (Type 2),,,,,,ES,CAS_0038,CastillaLeon
+41.99453470917861,-4.51597396987059,Centro Comercial Las Huertas,,1,Schuko,,,,,,ES,CAS_0039,CastillaLeon
+40.659985,-4.705561,Lienzo Norte,Fenie Energía,2,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0040,CastillaLeon
+40.659927,-4.705191,0364 - Centro de exposiciones y congresos Lienzo Norte,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Schuko",,,,,,ES,CAS_0041,CastillaLeon
+40.967469,-5.669022,Parkia - Hospital Stma. Trinidad,Endesa X Servicios S.L.,2,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0042,CastillaLeon
+40.9455103895275,-4.12119185767075,Parkia - Acueducto,Endesa X Servicios S.L.,2,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0043,CastillaLeon
+42.592425,-4.330742,Herrera de Pisuerga,,2,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0044,CastillaLeon
+40.935026,-4.101716,Segovia – Hotel Cándido,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0045,CastillaLeon
+40.2411425844956,-4.60213008534066,Ayuntamiento de Higuera de las Dueñas,Ayuntamiento de Higuera de las Dueñas,2,Mennekes (Type 2),,,,,,ES,CAS_0046,CastillaLeon
+42.795425,-4.26558,0158 - Aguilar de Campoo,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0047,CastillaLeon
+41.990766,-4.511121,E.S. El Pastor - AVIA,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0048,CastillaLeon
+41.990766,-4.511121,E.S. El Pastor - AVIA,IBERDROLA S.A.,1,CHAdeMO (DC),,,,,,ES,CAS_0049,CastillaLeon
+41.990766,-4.511121,E.S. El Pastor - AVIA,IBERDROLA S.A.,1,CCS Combo (DC),,,,,,ES,CAS_0050,CastillaLeon
+42.444233,-6.242184,Santa Colomba de Somoza 1,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0051,CastillaLeon
+42.009012,-4.530841,BECERRO DE BENGOA,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0052,CastillaLeon
+41.621506,-4.756304,"Repsol, Valladolid",Repsol Comercial de Productos Petrolíferos,1,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0053,CastillaLeon
+42.01119,-4.529755,CASADO DEL ALISAL,FENIE ENERGIA,1,Schuko,,,,,,ES,CAS_0054,CastillaLeon
+40.415987,-4.78463,Ayto. Burgohondo 01,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0055,CastillaLeon
+42.550413,-6.597891,"Vía P. C/ Compostilla, 12",Repsol Comercial de Productos Petrolíferos,3,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0056,CastillaLeon
+41.648873,-4.736067,Plaza del Milenio Exterior,,1,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0057,CastillaLeon
+40.3020941,-4.6354614,CIBERBIBLIOTECA,ELECTROMAPS,2,Mennekes (Type 2),,,,,,ES,CAS_0058,CastillaLeon
+41.649336,-4.72975,Doctrinos,,4,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0059,CastillaLeon
+41.612368,-4.748989,CDO Covaresa,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0060,CastillaLeon
+41.612368,-4.748989,CDO Covaresa,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0061,CastillaLeon
+43.098232,-3.283376,Vía P. Valle de Mena,Repsol Comercial de Productos Petrolíferos,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0062,CastillaLeon
+41.648734,-4.736001,Pl. Milenio exterior 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0063,CastillaLeon
+41.648764,-4.736096,Pl. Milenio exterior 2,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0064,CastillaLeon
+41.648734,-4.736001,Pl. Milenio exterior 1,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0065,CastillaLeon
+41.648764,-4.736096,Pl. Milenio exterior 2,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0066,CastillaLeon
+41.648947,-4.735636,Pl. Milenio parking int. 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0067,CastillaLeon
+41.648903,-4.735524,Pl. Milenio parking int. 2,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0068,CastillaLeon
+41.648903,-4.735524,Pl. Milenio parking int. 2,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0069,CastillaLeon
+41.648947,-4.735636,Pl. Milenio parking int. 1,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0070,CastillaLeon
+42.004559,-4.510767,CEREADUEY Calle Francia 33 02,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0071,CastillaLeon
+42.004559,-4.510767,CEREADUEY Calle Francia 33 02,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0072,CastillaLeon
+42.004539,-4.510767,CEREADUEY Calle Francia 33 01,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0073,CastillaLeon
+42.004539,-4.510767,CEREADUEY Calle Francia 33 01,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0074,CastillaLeon
+42.590931,-5.568733,Fray Luis de León,Senae Energy,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0075,CastillaLeon
+41.616591,-4.706387,Polígono San Cristóbal,,1,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0076,CastillaLeon
+42.362147,-3.687015,Hospital de Burgos 2,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0077,CastillaLeon
+42.363036,-3.685098,Hospital de Burgos 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0078,CastillaLeon
+41.640577,-4.733236,Casa de Indias,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0079,CastillaLeon
+41.640577,-4.733236,Casa de Indias,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0080,CastillaLeon
+42.01294,-4.516206,LOLA DE LA FUENTE,Ayuntamiento de Palencia,1,Mennekes (Type 2),,,,,,ES,CAS_0081,CastillaLeon
+40.602306,-4.333889,Ayuntamiento de Las Navas del Marqués,Ayuntamiento de Las Navas del Marqués,2,Mennekes (Type 2),,,,,,ES,CAS_0082,CastillaLeon
+41.648367,-4.73006,MARÍA DE MOLINA 13-2,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0083,CastillaLeon
+41.64822,-4.730014,MARÍA DE MOLINA 13-1,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0084,CastillaLeon
+41.645048,-4.745014,Taxi - Monasterio Silos,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0085,CastillaLeon
+41.645048,-4.745014,Taxi - Monasterio Silos,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0086,CastillaLeon
+42.00782,-4.540679,MUSEO DEL AGUA,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0087,CastillaLeon
+40.926448,-4.112856,AUTOINSA FORD Segovia,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0088,CastillaLeon
+41.337581,-4.582463,PEDRAJAS DE SAN ESTEBAN,Iberdrola,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0089,CastillaLeon
+41.65314,-4.740017,Taxi - Pio del Rio Hortega,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0090,CastillaLeon
+41.65314,-4.740017,Taxi - Pio del Rio Hortega,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0091,CastillaLeon
+41.616332,-4.705924,San Cristóbal,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0092,CastillaLeon
+41.616332,-4.705924,San Cristóbal,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0093,CastillaLeon
+41.640663,-4.738982,Taxi - Puente Colgante,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0094,CastillaLeon
+41.640663,-4.738982,Taxi - Puente Colgante,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0095,CastillaLeon
+41.65656909287525,-4.737885825811453,Feria de Muestras,,1,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0096,CastillaLeon
+41.655772,-4.731015,San Agustín,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0097,CastillaLeon
+41.655772,-4.731015,San Agustín,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0098,CastillaLeon
+42.598769,-5.574236,San Agustín.,Senae Energy,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0099,CastillaLeon
+41.717406,-3.367256,Brazacorta 1,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0100,CastillaLeon
+41.619063,-4.747645,Taxi - Vega Sicilia,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0101,CastillaLeon
+41.619063,-4.747645,Taxi - Vega Sicilia,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0102,CastillaLeon
+41.65409,-3.698766,E.S. VALCARCE,Endesa X Servicios S.L.,3,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0103,CastillaLeon
+41.65412,-3.698796,E.S. VALCARCE,Endesa X Servicios S.L.,3,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0104,CastillaLeon
+42.6172294,-5.5729652,LHL0001,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0105,CastillaLeon
+42.6172294,-5.5729652,LHL0002,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0106,CastillaLeon
+42.6172294,-5.5729652,LHL0003,EMPARK APARCAMIENTOS Y SERVICIOS S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0107,CastillaLeon
+42.9360935097108,-4.30709562964831,0503 - Bañosera,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0108,CastillaLeon
+41.670602,-3.707329,E.S. AVIA Aranda de Duero,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0109,CastillaLeon
+40.801833,-4.870028,Ayuntamiento de San Pedro del Arroyo,Ayuntamiento de San Pedro del Arroyo,2,Mennekes (Type 2),,,,,,ES,CAS_0110,CastillaLeon
+42.4351139785909,-3.68129421735809,0504 - Centro cívico Sotopalacios,"FENÍE ENERGÍA, SA",4,"Mennekes (Type 2 sin cable),Schuko,Mennekes (Type 2 sin cable),Schuko",,,,,,ES,CAS_0111,CastillaLeon
+42.028186,-4.533875,Calle de la República Dominicana,,1,Schuko,,,,,,ES,CAS_0112,CastillaLeon
+41.625599,-4.773881,0154 - Apremie,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0113,CastillaLeon
+42.01115,-4.52991,0167 - Asprinelpa,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0114,CastillaLeon
+40.9345781613713,-4.72961590404359,Ayuntamiento de Tiñosillos,Ayuntamiento de Tiñosillos,2,Mennekes (Type 2),,,,,,ES,CAS_0115,CastillaLeon
+40.9340202530848,-4.729673844294,0485 - Ayuntaiento de Tiñosillos,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Schuko",,,,,,ES,CAS_0116,CastillaLeon
+41.62746180183172,-4.788025912130706,IKEA Valladolid,,32,Schuko,,,,,,ES,CAS_0117,CastillaLeon
+41.629871,-4.787193,IKEA-RIO SHOPPING,EasyCharger,8,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0118,CastillaLeon
+41.629352,-4.710149,McDonalds – Calle Palillos,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0119,CastillaLeon
+40.673889,-4.778583,Ayuntamiento de Martiherrero,Ayuntamiento de Martiherrero,1,Mennekes (Type 2),,,,,,ES,CAS_0120,CastillaLeon
+42.005346,-5.680263,0448 - Benavente (Barrio de las Eras),"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0121,CastillaLeon
+42.544666,-6.782585,Toral de los Vados – ES VALCARCE,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0122,CastillaLeon
+40.6304757019385,-4.64693157465802,Naturávila,Naturávila,2,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0123,CastillaLeon
+42.938077,-5.659927,Villamanín – Casa Ezequiel,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0124,CastillaLeon
+40.363552,-4.891145,Ayuntamiento de Navarrevisca,Ayuntamiento de Navarrevisca,2,Mennekes (Type 2),,,,,,ES,CAS_0125,CastillaLeon
+40.416528,-4.7845,Ayuntamiento de Burgohondo,,2,Mennekes (Type 2),,,,,,ES,CAS_0126,CastillaLeon
+42.8019444,-4.74027777777778,0501 - Santibañez,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0127,CastillaLeon
+42.659191,-6.914013,ES La Portela - VALCARCE,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0128,CastillaLeon
+42.688583,-2.953472,HOTEL TUDANCA-MIRANDA DE EBRO,EasyCharger,1,"CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2),Mennekes (Type 2)",,,,,,ES,CAS_0129,CastillaLeon
+41.405524,-4.326788,Cuellar - ES El Surtidor,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0130,CastillaLeon
+42.358563,-3.694062,E.S. AVIA VISTA ALEGRE,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0131,CastillaLeon
+42.694788,-2.953716,Miranda de Ebro - LECLERC,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0132,CastillaLeon
+41.515431,-5.747546,CC Valderaduey Zamora,Repsol Comercial de Productos Petrolíferos,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0133,CastillaLeon
+41.773097,-2.499592,Golmayo - McDonalds,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0134,CastillaLeon
+42.084742,-4.209492,PRVE La Vasca,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0135,CastillaLeon
+42.464999,-6.073377,PRVE Maragato,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0136,CastillaLeon
+40.945756,-5.554553,ES Alhandiga Gestión y Servicios S.L.,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0137,CastillaLeon
+42.461936,-5.86892,POLIGONO INDUSTRIAL ORBIGO-02,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0138,CastillaLeon
+42.461936,-5.86892,POLIGONO INDUSTRIAL ORBIGO-02,IBERDROLA S.A.,1,CHAdeMO (DC),,,,,,ES,CAS_0139,CastillaLeon
+42.461902,-5.868871,POLIGONO INDUSTRIAL ORBIGO-01,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0140,CastillaLeon
+42.461936,-5.86892,POLIGONO INDUSTRIAL ORBIGO-02,IBERDROLA S.A.,1,CCS Combo (DC),,,,,,ES,CAS_0141,CastillaLeon
+42.461902,-5.868871,POLIGONO INDUSTRIAL ORBIGO-01,IBERDROLA S.A.,1,CCS Combo (DC),,,,,,ES,CAS_0142,CastillaLeon
+42.461902,-5.868871,POLIGONO INDUSTRIAL ORBIGO-01,IBERDROLA S.A.,1,CHAdeMO (DC),,,,,,ES,CAS_0143,CastillaLeon
+41.642668,-4.31832,BODEGA MATARROMERA 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0144,CastillaLeon
+41.642696,-4.318316,BODEGA MATARROMERA 2,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0145,CastillaLeon
+41.118419,-4.262786,SG-REST. EL RISCAL-01-2,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0146,CastillaLeon
+41.118435,-4.262797,SG-REST. EL RISCAL-01-1,IBERDROLA S.A.,1,Mennekes (Type 2),,,,,,ES,CAS_0147,CastillaLeon
+40.346444,-5.175361,"Casa del Parque de Sierra de Gredos ""Pinos Cimeros""",Ayuntamiento de Hoyos del Espino,2,Mennekes (Type 2),,,,,,ES,CAS_0148,CastillaLeon
+41.189312,-2.401307,PRVE Torremar,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0149,CastillaLeon
+42.341296,-3.612233,"Repsol, Cardeñajimeno",Repsol Comercial de Productos Petrolíferos,1,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0150,CastillaLeon
+40.932001,-5.466975,E.S. AVIA ADENOR ENCINAS DE ABAJO,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0151,CastillaLeon
+40.544167,-5.675,CENTRO DE SERVICIOS AL TRANSPORTE DE GUIJUELO,GMS DE GUIJUELO SL,4,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0152,CastillaLeon
+42.717789,-4.291774,Puerta de la Montaña,EasyCharger,6,"CHAdeMO (DC),CCS Combo (DC),Mennekes (Type 2)",,,,,,ES,CAS_0153,CastillaLeon
+40.490242,-5.676969,PRVE José Carlos,Wenea,1,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0154,CastillaLeon
+41.193767,-3.583206,Hotel Venta Juanilla,Cargacoches,1,"Mennekes (Type 2),CHAdeMO (DC),CCS Combo (DC)",,,,,,ES,CAS_0155,CastillaLeon
+42.651585,-3.085018,Hotel El Molino,Cargacoches,1,Mennekes (Type 2),,,,,,ES,CAS_0156,CastillaLeon
+40.388157,-5.751917,"Béjar - Obispo Zarranz y Pueyo, 60","IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0157,CastillaLeon
+40.220639,-5.143333,"Casa del Parque de Sierra de Gredos ""El Risquillo""",Ayuntamiento de Guisando,2,Mennekes (Type 2),,,,,,ES,CAS_0158,CastillaLeon
+40.6647428720132,-4.67947295767075,Repostar 7,Endesa X Servicios S.L.,3,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0159,CastillaLeon
+41.743751,-6.496523,Trabazos - Pabellón multiusos,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0160,CastillaLeon
+40.96916,-5.656893,"Salamanca - Paseo de la Estación, 11","IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0161,CastillaLeon
+40.274933,-4.982392,Ayuntamiento de San Esteban del Valle,Ayuntamiento de San Esteban del Valle,2,Mennekes (Type 2),,,,,,ES,CAS_0162,CastillaLeon
+40.958989,-5.665279,"Salamanca - Paseo del Rector Esperabé, 16-18","IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0163,CastillaLeon
+42.7889983282415,-4.25802792895751,0502 - Aguilar de Campoo,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0164,CastillaLeon
+40.945511148585,-4.12186581528122,CEEES - Geot Carburantes SLU,Endesa X Servicios S.L.,3,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0165,CastillaLeon
+40.880236,-5.582498,PRVE Terradillos,Wenea,1,Mennekes (Type sin cable),,,,,,ES,CAS_0166,CastillaLeon
+41.618211,-4.747904,Agencia de Innovación,,1,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0167,CastillaLeon
+41.623455,-4.750183,VALLADOLID,EasyCharger,2,Mennekes (Type 2),,,,,,ES,CAS_0168,CastillaLeon
+42.337507,-4.604279,0080 - Ayuntamiento de Carrión de los Condes,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0169,CastillaLeon
+41.506565,-5.736246,0162 - Azea Zamora,"FENÍE ENERGÍA, SA",2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0170,CastillaLeon
+40.3588867631376,-5.52346962903326,0497 - El Barco de Ávila,"FENÍE ENERGÍA, SA",2,"Mennekes (Type 2 sin cable),Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0171,CastillaLeon
+40.35875,-5.523556,Ayuntamiento de Barco de Ávila,Ayuntamiento de Barco de Ávila,2,Mennekes (Type 2),,,,,,ES,CAS_0172,CastillaLeon
+40.841097,-4.770127,Ayuntamiento de El Oso,Ayuntamiento de El Oso,2,Mennekes (Type 2),,,,,,ES,CAS_0173,CastillaLeon
+40.654211,-4.696795,Aparcamiento El Grande,TELPARK,3,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0174,CastillaLeon
+42.00873,-4.533387,Plaza de Zurradores,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0175,CastillaLeon
+40.968967,-5.661471,Parkia - Campillo,Endesa X Servicios S.L.,2,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0176,CastillaLeon
+41.0648968648117,-4.72031460307951,Ayuntamiento de Arévalo,Ayuntamiento de Arévalo,1,Mennekes (Type 2),,,,,,ES,CAS_0177,CastillaLeon
+42.594361,-5.570831,San Francisco.,Senae Energy,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0178,CastillaLeon
+42.010717,-4.532057,PLAZA MAYOR,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0179,CastillaLeon
+42.517042,-4.008603,VILLADIEGO,FENIE ENERGIA,2,"Schuko,Mennekes (Type 2)",,,,,,ES,CAS_0180,CastillaLeon
+42.516006,-4.00981,0147 - Villadiego,"FENÍE ENERGÍA, SA",4,"Schuko,Mennekes (Type 2 sin cable),Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0181,CastillaLeon
+40.550556,-5.671667,PARKING MUNICIPAL DE GUIJUELO,GMS DE GUIJUELO SL,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0182,CastillaLeon
+41.332414,-3.634874,Hotel Restaurante Rya,Endesa X Servicios S.L.,1,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0183,CastillaLeon
+42.008625,-4.533353,PLAZA ZURRADORES,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0184,CastillaLeon
+42.01066,-4.532353,Plazoleta de la Sal,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0185,CastillaLeon
+41.654822,-5.365855,Plaza Mayor 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0186,CastillaLeon
+40.944714,-4.121772,Estación de autobuses Segovia,Repsol Comercial de Productos Petrolíferos,2,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0187,CastillaLeon
+40.4202,-4.562069,Casa de la Reserva Natural del Valle de Iruelas,Ayuntamiento de El Barraco,1,Mennekes (Type 2),,,,,,ES,CAS_0188,CastillaLeon
+40.921111,-4.111944,CC Luz de Castilla,INERGEV CITY/IBIL S.A.,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0189,CastillaLeon
+40.921133,-4.11223,Carrefour Segovia,Repsol Comercial de Productos Petrolíferos,2,"Schuko,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0190,CastillaLeon
+42.004862,-4.518477,Vicauto SA,Endesa X Servicios S.L.,1,"CHAdeMO (DC),COMBO - Cable,Mennekes (Type 2 sin cable)",,,,,,ES,CAS_0191,CastillaLeon
+41.077996,-4.734295,Arevalo – ES VALCARCE,"IBERDROLA CLIENTES, SAU",2,"CCS Combo (DC),CHAdeMO (DC),Mennekes (Type 2)",,,,,,ES,CAS_0192,CastillaLeon
+41.618773,-4.74791,Agencia Innovación 2,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0193,CastillaLeon
+41.618776,-4.747981,Agencia Innovación 1,IBERDROLA S.A.,1,Mennekes (Type 2 sin cable),,,,,,ES,CAS_0194,CastillaLeon
+41.618776,-4.747981,Agencia Innovación 1,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0195,CastillaLeon
+41.618773,-4.74791,Agencia Innovación 2,IBERDROLA S.A.,1,Schuko,,,,,,ES,CAS_0196,CastillaLeon
+42.00783,-4.540665,ALLende del río,EasyCharger,1,Mennekes (Type 2),,,,,,ES,CAS_0197,CastillaLeon

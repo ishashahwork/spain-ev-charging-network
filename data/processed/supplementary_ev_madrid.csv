@@ -1,0 +1,125 @@
+latitude,longitude,name,operator,max_power_kw,n_connectors,postcode,connector_types,total_power_kw,type_of_site,national_id,country,site_id,source
+40.407409810770275,-3.7201630666934333,Calle Chulapos s/n,IBERDROLA,,,,-,,,,ES,MAD_0001,Madrid
+40.40564288901374,-3.6997502642824442,Ronda de Valencia 1,WENEA,,,,-,,,,ES,MAD_0002,Madrid
+40.39990397766375,-3.6752112977127833,Calle Cerro de la Plata 4,TOTALENERGIES,,,,-,,,,ES,MAD_0003,Madrid
+40.419280788113,-3.6889348053020012,"Calle Alfonso XII, 2",TOTALENERGIES,,,,-,,,,ES,MAD_0004,Madrid
+40.42490156269867,-3.681052554532924,Calle Goya 36,TOTALENERGIES,,,,-,,,,ES,MAD_0005,Madrid
+40.42466538349726,-3.671155975171222,Calle Goya 123,IBERDROLA,,,,-,,,,ES,MAD_0006,Madrid
+40.43500162609076,-3.6807550022685924,Calle Castelló 105,WENEA,,,,-,,,,ES,MAD_0007,Madrid
+40.43390307185561,-3.670704771139091,"Mercado de Guindalera. Plaza de San Cayetano, s/n",ENDESA,,,,Mercado Municipal,,,,ES,MAD_0008,Madrid
+40.37422456687519,-3.776766471915281,"Calle Sinfonia, 9 (ES Ballenoil Aviación)",IBERDROLA,,,,-,,,,ES,MAD_0009,Madrid
+40.39754123766624,-3.6207608372044944,"Bulevar José Prat, 27A",IBERDROLA,,,,,,,,ES,MAD_0010,Madrid
+40.458852220803735,-3.6676762436749373,"Avenida Alfonso XIII, esquina, Costa Rica",REPSOL,,,,,,,,ES,MAD_0011,Madrid
+40.4293146698767,-3.683596255100388,Calle Velázquez 74,WENEA,,,,-,,,,ES,MAD_0012,Madrid
+40.435522543356804,-3.687965862510226,Paseo Castellana 52,TOTALENERGIES,,,,-,,,,ES,MAD_0013,Madrid
+40.4454323799613,-3.6907732694292776,Paseo Castellana 106,TOTALENERGIES,,,,-,,,,ES,MAD_0014,Madrid
+40.45844231651879,-3.689633198351765,Paseo Castellana 160,WENEA,,,,-,,,,ES,MAD_0015,Madrid
+40.467307137377716,-3.6699516265375043,Calle Cardenal Marcelo Spínola 6,IBERDROLA,,,,-,,,,ES,MAD_0016,Madrid
+40.43518936227655,-3.709214852302539,Calle Fernández de los Ríos 42,WENEA,,,,-,,,,ES,MAD_0017,Madrid
+40.43048221906003,-3.7069091528053972,Plaza del Conde de Valle de Suchil,IBERDROLA,,,,-,,,,ES,MAD_0018,Madrid
+40.42959204058442,-3.7024747561672813,Calle Fuencarral 114,TOTALENERGIES,,,,,,,,ES,MAD_0019,Madrid
+40.43050027130021,-3.699185308591792,Calle Manuel Silvela 16,TOTALENERGIES,,,,-,,,,ES,MAD_0020,Madrid
+40.45905152193189,-3.686497649184261,"Avenida Alberto Alcocer, 11",ENDESA,,,,Aparcamiento privado rotación,,,,ES,MAD_0021,Madrid
+40.438048479051034,-3.7002862229780717,Calle Santa Engracia 115,IBERDROLA,,,,-,,,,ES,MAD_0022,Madrid
+40.43195780484819,-3.6891387931550463,Paseo Castellana 33,WENEA,,,,-,,,,ES,MAD_0023,Madrid
+40.47440524568015,-3.6879661828152694,Calle de Sinesio Delgado 2,IBERDROLA,,,,-,,,,ES,MAD_0024,Madrid
+40.45407980919676,-3.6553478466442817,Calle Bueso Pineda 29,TOTALENERGIES,,,,-,,,,ES,MAD_0025,Madrid
+40.41075619240621,-3.7101177821161793,Mercado de la Cebada. Plaza de la Cebada,DRIVE THE CITY,,,,Mercado municipal,,,,ES,MAD_0026,Madrid
+40.46644468916498,-3.6865512150294,"Calle Mateo Inurria, 4 ",REPSOL,,,,-,,,,ES,MAD_0027,Madrid
+40.46146029989998,-3.7086133035484976,"Calle Ofelia Nieto, 64 ",REPSOL,,,,-,,,,ES,MAD_0028,Madrid
+40.501968140844184,-3.6632084939975527,ES Repsol 96849 - Calle Abetal 8 - Las Tablas,REPSOL,,,,-,,,,ES,MAD_0029,Madrid
+40.460928809828715,-3.7580649831380777,"ES Hipódromo(CR A-6, 8)",REPSOL,,,,-,,,,ES,MAD_0030,Madrid
+40.46887298083183,-3.8200754343268053,ES Aravaca - El Plantío (Avenida Victoria 34),REPSOL,,,,-,,,,ES,MAD_0031,Madrid
+40.37937059233547,-3.7905200471989966,ES Repsol 33826 - Pº Extremadura 543 (A5 PK9),REPSOL,,,,-,,,,ES,MAD_0032,Madrid
+40.36845567346054,-3.765636319865766,"CRED PAU CARABANCHEL, Av. de la Peseta",REPSOL,,,,-,,,,ES,MAD_0033,Madrid
+40.377818357266506,-3.768517462494155,Mercado de las Águilas - Calle de José Cadalso,DRIVE THE CITY,,,,Mercado Municipal,,,,ES,MAD_0034,Madrid
+40.38389079800475,-3.632061138599998,Avenida de la Albufera 319,ECOLINERAS,,,,Aparcamiento privado rotación,,,,ES,MAD_0035,Madrid
+40.49768422051141,-3.6626423366702836,Avenida María de Portugal 15,IBERDROLA,,,,-,,,,ES,MAD_0036,Madrid
+40.33981145898198,-3.6687989789428617,"Avda. de los Rosales 147 M-301 km 4,1",REPSOL,,,,-,,,,ES,MAD_0037,Madrid
+40.44902462696646,-3.5664377418160695,"ES Repsol Barajas II (CR N-2 P.K. 12,60 D)",REPSOL,,,,-,,,,ES,MAD_0038,Madrid
+40.41462143438068,-3.703175100546667,Plaza de Jacinto Benavente 6,EMT,,,,Aparcamiento público rotación. EMT,,,,ES,MAD_0039,Madrid
+40.424566594579844,-3.689928026887057,Jardines del Descubrimiento - Acceso a Complejo de Aparcamientos subterráneos por Calle de la Armada Española ,EMT,,,,Aparcamiento público rotación. EMT,,,,ES,MAD_0040,Madrid
+40.4303299216082,-3.679174688067177,Plaza de Marqués de Salamanca,EMT,,,,Aparcamiento público rotación. EMT,,,,ES,MAD_0041,Madrid
+40.472309741349065,-3.6789963101277587,Calle Hiedra 36,EMT,,,,Aparcamiento público rotación. EMT,,,,ES,MAD_0042,Madrid
+40.410747140480105,-3.7101686197601174,Plaza de la Cebada,DRIVE THE CITY,,,,Iniciativa privada,,,,ES,MAD_0043,Madrid
+40.429698719100166,-3.7083638724208554,Calle Alberto Aguilera 9,IBERDROLA,,,,-,,,,ES,MAD_0044,Madrid
+40.4063216073144,-3.6694137285341477,Plaza del Conde de Casal 6,DRIVE THE CITY,,,,Aparcamiento privado rotación. Iniciativa privada,,,,ES,MAD_0045,Madrid
+40.509884128294914,-3.690669564535379,"Calle del Monasterio de Arlanza, 20 (Centro Comercial Montecarmelo)",IBERDROLA,,,,Aparcamiento privado rotación. Iniciativa privada,,,,ES,MAD_0046,Madrid
+40.46497688261292,-3.6359822447240737,Avenida de Machupichu 105,GIC,,,,Iniciativa privada,,,,ES,MAD_0047,Madrid
+40.49374592012692,-3.6481144218363997,Avenida de Niceto Alcala Zamora 20,GIC/ GALP,,,,Iniciativa privada,,,,ES,MAD_0048,Madrid
+40.36665700798045,-3.6552024444533737,"Avenida Eje Central, 7",NATURGY,,,,Iniciativa privada,,,,ES,MAD_0049,Madrid
+40.37263726740971,-3.6373730419295125,Carretera de Villaverde a Vallecas 278 ,REPSOL,,,,-,,,,ES,MAD_0050,Madrid
+40.45874057705391,-3.616579681755661,Avenida del Consejo de Europa 2,GIC / CEPSA,,,,Iniciativa privada,,,,ES,MAD_0051,Madrid
+40.46429174788962,-3.6163927643500147,Avenida del Partenón 5 (Recinto IFEMA),IBERDROLA,,,,Aparcamiento privado rotación. Iniciativa privada,,,,ES,MAD_0052,Madrid
+40.40187233787716,-3.690725388594747,"Calle del General Lacy, 21",TOTALENERGIES,,,,,,,,ES,MAD_0053,Madrid
+40.396832927713355,-3.673148160424477,"Calle de Luis Peidró, 11",IBERDROLA,,,,,,,,ES,MAD_0054,Madrid
+40.38616665950606,-3.6984819193220786,"Avenida de Córdoba, 9",TOTALENERGIES,,,,,,,,ES,MAD_0055,Madrid
+40.38879671263853,-3.639024420428852,"Calle San Claudio, 154 (frente a Centro de Salud)",TOTALENERGIES,,,,,,,,ES,MAD_0056,Madrid
+40.40058039984013,-3.6346718298579104,Calle Hacienda de Pavones 231 (enfrente del LIDL),IBERDROLA,,,,,,,,ES,MAD_0057,Madrid
+40.43879142645773,-3.654083948396618,"Calle Esteban Mora, 43",IBERDROLA,,,,,,,,ES,MAD_0058,Madrid
+40.469125290321145,-3.6419515312015527,"Glorieta De Sandro Pertini (frente a edificio c/ Arequipa, 1)",IBERDROLA,,,,,,,,ES,MAD_0059,Madrid
+40.34953228882377,-3.6910473551675476,Calle de Santa Florencia (enfrente del 1),IBERDROLA,,,,,,,,ES,MAD_0060,Madrid
+40.40599897898903,-3.6086675113356406,"Calle Villardondiego, 34",TOTALENERGIES,,,,,,,,ES,MAD_0061,Madrid
+40.40296923017853,-3.5988985368468547,"Calle de Minerva, 17",TOTALENERGIES,,,,,,,,ES,MAD_0062,Madrid
+40.35967946914824,-3.6619894488098255,Parcela D.2.1 Anexo avenida de legazpi,DRIVE THE CITY,,,,-,,,,ES,MAD_0063,Madrid
+40.36403158363529,-3.659722286161219,Parcela E4 Anexo Avda Legazpi,DRIVE THE CITY,,,,-,,,,ES,MAD_0064,Madrid
+40.359136492078186,-3.6705654063952577,Parcela B14 Anexo Calle 3,GIC (CIRCUTOR),,,,-,,,,ES,MAD_0065,Madrid
+40.41853868479972,-3.6784274816989218,Calle Ibiza 1,WENEA,,,,-,,,,ES,MAD_0066,Madrid
+40.41614390921428,-3.6920151278001563,"Plaza de la Lealtad, s/n",IBERDROLA,,,,-,,,,ES,MAD_0067,Madrid
+40.372709402953284,-3.7291282365607215,"Calle Hilario Herranz Establos, 20",ENDESA,,,,-,,,,ES,MAD_0068,Madrid
+40.4295660204493,-3.719103257210528,"Calle Marqués de Urquijo, 27",ENDESA,,,,Aparcamiento privado rotación,,,,ES,MAD_0069,Madrid
+40.336121566781465,-3.715225539341874,"Calle Valle de Tobalina, 24 (ES Ballenoil)",IBERDROLA,,,,-,,,,ES,MAD_0070,Madrid
+40.44907279100186,-3.703462120749668,"Mercado Municipal de Maravillas, Calle Bravo Murillo 122",DRIVE THE CITY,,,,Mercado Municipal,,,,ES,MAD_0071,Madrid
+40.36653115111418,-3.694497059085381,ES Avenida de Andalucía 38 - Carretera A-4 PK6.70 D,ENDESA,,,,Aparcamiento privado rotación,,,,ES,MAD_0072,Madrid
+40.45253622603899,-3.6958831263833427,"Avenida del General Perón, 21",ENDESA,,,,Aparcamiento privado rotación,,,,ES,MAD_0073,Madrid
+40.47297432879047,-3.663139026847241,"SEDE NATURGY, Av San Luis, 77",NATURGY,,,,-,,,,ES,MAD_0074,Madrid
+40.35700645405388,-3.661337169992935,"Atolón 98 (Mercamadrid), Calle 29.",DRIVE THE CITY,,,,-,,,,ES,MAD_0075,Madrid
+40.42599170636356,-3.6585744702364824,"Estación de Servicio SUDEL, Calle Ricardo Ortiz, 44",Sudel,,,,-,,,,ES,MAD_0076,Madrid
+40.457365951044366,-3.6580875769458245,"ES Calle Arturo Soria, 175",REPSOL,,,,-,,,,ES,MAD_0077,Madrid
+40.440051678376435,-3.6561138533321764,Calle Verdaguer y García 5 (Ipark-Verdaguer ampliación),ENDESA,,,,,,,,ES,MAD_0078,Madrid
+40.40734578948913,-3.6518750443832255,CRE Moratalaz Glorieta del Corregidor Sancho de Córdoba,REPSOL,,,,-,,,,ES,MAD_0079,Madrid
+40.36947900460402,-3.6314812428397545,"Avenida Mayorazgo, 20",GALP,,,,-,,,,ES,MAD_0080,Madrid
+40.426467635911195,-3.6259660919055405,"Avenida Arcentales, 7",GALP,,,,-,,,,ES,MAD_0081,Madrid
+40.44117968033125,-3.625381029797427,Calle Alcalá 510 (CRED San Blas),REPSOL,,,,-,,,,ES,MAD_0082,Madrid
+40.426249719189094,-3.611605970811287,"Avenida Canillejas a Vicálvaro, 80",GALP,,,,-,,,,ES,MAD_0083,Madrid
+40.42459394107901,-3.6112318996774024,"Avenida Canillejas a Vicálvaro, 147",Cerdeira,,,,-,,,,ES,MAD_0084,Madrid
+40.36654737118795,-3.58770313298305,"Calle Alto del Retiro, s/n",ENDESA,,,,-,,,,ES,MAD_0085,Madrid
+40.44286808959269,-3.586266874205794,"CENTRO DE OPERACIONES NATURGY, Calle Deyanira, 10",NATURGY,,,,-,,,,ES,MAD_0086,Madrid
+40.44608034510149,-3.5755832899764908,"Calle Nanclares de Oca, 5-17",IBERDROLA,,,,-,,,,ES,MAD_0087,Madrid
+40.36668878866119,-3.655202752198489,"ESTACIÓN DE SUMINISTRO GNC (CTM), Avenida Eje Central, 7",NATURGY,,,,-,,,,ES,MAD_0088,Madrid
+40.42587294259599,-3.692395144947379,Calle Génova 24,IBERDROLA,,,,-,,,,ES,MAD_0089,Madrid
+40.34076864852112,-3.6886734589236125,Calle Godella 116,TOTALENERGIES,,,,,,,,ES,MAD_0090,Madrid
+40.409196758562025,-3.6037240599879685,Paseo Polidportivo s/n. Centro Deportivo Margot Moles,TOTALENERGIES,,,,,,,,ES,MAD_0091,Madrid
+40.43402122942309,-3.6610493338889762,"Calle de Roberto Domingo, 4",WENEA,,,,,,,,ES,MAD_0092,Madrid
+40.3849242061568,-3.764639201037601,Calle Guareña cv av Aguilas,IBERDROLA,,,,,,,,ES,MAD_0093,Madrid
+40.379229095679925,-3.752644226216354,"Calle del Parque Eugenia de Montijo, 36",IBERDROLA,,,,,,,,ES,MAD_0094,Madrid
+40.443141146765655,-3.7100291530087937,"Calle Santander, 5",IBERDROLA,,,,,,,,ES,MAD_0095,Madrid
+40.46547620318642,-3.786917826396448,"Camino de la Zarzuela, 25",IBERDROLA,,,,,,,,ES,MAD_0096,Madrid
+40.45637654402703,-3.707778044003043,"Calle Pamplona, 63",TOTALENERGIES,,,,,,,,ES,MAD_0097,Madrid
+40.42775034874745,-3.7201252621281276,"Calle Buen Suceso, 27",TOTALENERGIES,,,,,,,,ES,MAD_0098,Madrid
+40.38095693534799,-3.7277335447314353,"Avenida de Abrantes, 57",TOTALENERGIES,,,,,,,,ES,MAD_0099,Madrid
+40.46753120614869,-3.6910000072921045,"Calle San Aquilino, 1 B",IBERDROLA,,,,Iniciativa privada,,,,ES,MAD_0100,Madrid
+40.43801227894584,-3.676681769963744,"Avenida de América 9 A, planta -3",IBERDROLA,,,,Iniciativa privada,,,,ES,MAD_0101,Madrid
+40.411692088745134,-3.654856791466588,C/Carmen Amaya 12,TOTALENERGIES,,,,Concesión demanial,,,,ES,MAD_0102,Madrid
+40.35899019496731,-3.661874682084118,Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2),,,,,,,,,ES,MAD_0103,Madrid
+40.38154980674569,-3.7150534440897047,"Travesía Santoña, 4",IBERDROLA,,,,,,,,ES,MAD_0104,Madrid
+40.479168949854554,-3.708018597543154,"CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36",CC LA VAGUADA,,,,,,,,ES,MAD_0105,Madrid
+40.35701811872047,-3.6612978466089223,Avda. de Madrid - Aparcamiento Este del Mercado Central  de Pescados (Parcela C2)  Mercamadrid.,,,,,,,,,ES,MAD_0106,Madrid
+40.543930624077824,-3.69534165256694,CAMPUS CANTOBLANCO – RECTORADO,UAM,,,,,,,,ES,MAD_0107,Madrid
+40.46845679950688,-3.609684107373079,C/Vía Dublín s/n. Club de golf Olivar de la Hinojosa.,BLAUDRIVE,,,,,,,,ES,MAD_0108,Madrid
+40.38709993558249,-3.706525361069778,"Calle Amparo Usera, 46. Mercado Usera",BLAUDRIVE,,,,,,,,ES,MAD_0109,Madrid
+40.44981797943471,-3.652590747268566,"Hospital Vithas Clinsa SA. Calle de Ramírez de Arellano, 2",ENDESA X SERVICIOS S.L.,,,,,,,,ES,MAD_0110,Madrid
+40.43221157181351,-3.6869607419114576,"C.C. ABC SERRANO. Calle Serrano, 61",ENDESA X SERVICIOS S.L.,,,,,,,,ES,MAD_0111,Madrid
+40.35699563076111,-3.661369415628726,Calle 29. Mercamadrid,DRIVE THE CITY,,,,Iniciativa privada,,,,ES,MAD_0112,Madrid
+40.542169568697,-3.6914113222779714,CAMPUS CANTOBLANCO – DERECHO,UAM,,,,,,,,ES,MAD_0113,Madrid
+40.395229786552356,-3.667751430724763,"Calle Martínez de la Riva, 4. Mercado Puente de Vallecas",BLAUDRIVE,,,,,,,,ES,MAD_0114,Madrid
+40.33417258889112,-3.6931670155472296,"OnTime - Avenida Marconi, 4",ENDESA X SERVICIOS S.L.,,,,,,,,ES,MAD_0115,Madrid
+40.437196125742155,-3.675739972337249,"Parking Coslada 3. Calle de Coslada, 3",ENDESA X SERVICIOS S.L.,,,,,,,,ES,MAD_0116,Madrid
+40.46634022544958,-3.783434603822045,"Hospital Vithas Pardo de Aravaca. Calle de la Salle, 12",ENDESA X SERVICIOS S.L.,,,,,,,,ES,MAD_0117,Madrid
+40.403211592899396,-3.7164941046709643,Paseo Imperial,TOTALENERGIES,,,,,,,,ES,MAD_0118,Madrid
+40.41785534475622,-3.7000853944631396,Calle Alcalá 17. Parking de Canalejas.,EMT,,,,Aparcamiento,,,,ES,MAD_0119,Madrid
+40.47894204818478,-3.7262142122986086,ES Cardenal Herrera Oria. Avenida Cardenal Herrera Oria 290,REPSOL,,,,,,,,ES,MAD_0120,Madrid
+40.39701877344255,-3.5943569878526533,Calle Pirotecnia 47,ACCIONA,,,,Electrolinera,,,,ES,MAD_0121,Madrid
+40.35913813519168,-3.6595206115678534,Mercado Central de Frutas y Verduras (Parcela H5),Mercamadrid,,,,Mercamadrid,,,,ES,MAD_0122,Madrid
+40.42059534883142,-3.6920234086194896,Paseo Recoletos 4,EMT,,,,Aparcamiento público rotación. EMT,,,,ES,MAD_0123,Madrid
+40.47930089680562,-3.707558416129782,"CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36",CC LA VAGUADA,,,,,,,,ES,MAD_0124,Madrid

@@ -1,0 +1,50 @@
+name: datathon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  # Data manipulation
+  - pandas
+  - numpy
+  - polars
+  # Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+  # Machine learning
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  # Geospatial (common in energy/sustainability challenges)
+  - geopandas
+  - folium
+  # Notebooks
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  # Stats
+  - scipy
+  - statsmodels
+  # Utilities
+  - tqdm
+  - python-dotenv
+  # Parquet support
+  - pyarrow
+  # Geospatial
+  - osmnx
+  - pip:
+    # PDF reading
+    - pdfplumber
+    - PyPDF2
+    # Time series forecasting
+    - pmdarima
+    # Excel/data formats
+    - openpyxl
+    - xlrd
+    # Additional ML
+    - catboost
+    - shap
+    # Time series
+    - prophet

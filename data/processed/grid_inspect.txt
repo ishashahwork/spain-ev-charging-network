@@ -1,0 +1,76 @@
+Total rows: 4926
+Columns: ['distributor_network', 'latitude', 'longitude', 'voltage_kv', 'capacity_mw', 'substation_name', 'province_name', 'municipality_name', 'region']
+
+=== SAMPLE (5 rows per distributor) ===
+
+--- i-DE ---
+  distributor_network   latitude  longitude  voltage_kv  capacity_mw substation_name province_name municipality_name region
+0                i-DE  43.083669  -3.011056        30.0          0.0            3102   Araba/Álava       Ayala/Aiara    NaN
+1                i-DE  42.856076  -2.707190        13.2          0.0            3017   Araba/Álava   Vitoria-Gasteiz    NaN
+2                i-DE  42.856076  -2.707190        30.0          0.0            3017   Araba/Álava   Vitoria-Gasteiz    NaN
+3                i-DE  42.856076  -2.707190        13.2          0.0            3017   Araba/Álava   Vitoria-Gasteiz    NaN
+4                i-DE  42.856076  -2.707190        30.0          0.0            3017   Araba/Álava   Vitoria-Gasteiz    NaN
+
+--- Endesa ---
+     distributor_network   latitude  longitude  voltage_kv  capacity_mw substation_name province_name municipality_name          region
+3017              Endesa  36.813531  -2.598941        66.0          0.0        AGUADULC       Almería   Roquetas de Mar  01 - Andalucía
+3018              Endesa  36.813531  -2.598941        20.0          0.0        AGUADULC       Almería   Roquetas de Mar  01 - Andalucía
+3019              Endesa  37.367600  -2.142758        66.0          0.0           ALBOX       Almería             Albox  01 - Andalucía
+3020              Endesa  37.367600  -2.142758        25.0          0.0           ALBOX       Almería             Albox  01 - Andalucía
+3021              Endesa  36.969459  -2.963403        66.0          0.0         ALCOLEA       Almería           Alcolea  01 - Andalucía
+
+--- Viesgo ---
+     distributor_network   latitude  longitude  voltage_kv  capacity_mw substation_name province_name municipality_name region
+4749              Viesgo  43.531231  -6.522581        20.0         8.97             101      Asturias            Valdés    NaN
+4750              Viesgo  43.531231  -6.522581       132.0        30.00             101      Asturias            Valdés    NaN
+4751              Viesgo  43.478805  -6.730785        30.0         1.91             158      Asturias             Coaña    NaN
+4752              Viesgo  43.478805  -6.730785       132.0        30.00             158      Asturias             Coaña    NaN
+4753              Viesgo  43.300845  -4.809832       132.0         3.00             540      Asturias          Cabrales    NaN
+
+=== CAPACITY (MW) DISTRIBUTION ===
+count    4926.00
+mean        0.97
+std         5.80
+min         0.00
+25%         0.00
+50%         0.00
+75%         0.00
+max       112.34
+
+=== VOLTAGE LEVELS ===
+voltage_kv
+20.0     881
+66.0     792
+45.0     734
+13.2     642
+132.0    574
+15.0     490
+30.0     289
+25.0     211
+110.0    116
+12.0      63
+10.0      47
+55.0      43
+11.0      30
+13.0       7
+50.0       4
+
+=== HOW MANY ROWS PER PHYSICAL SUBSTATION? ===
+count    2108.000000
+mean        2.336812
+std         1.089028
+min         1.000000
+25%         2.000000
+50%         2.000000
+75%         3.000000
+max         8.000000
+
+Unique lat/lon points: 2116
+Total rows: 4926
+Avg rows per location: 2.3
+
+=== CAPACITY = 0 BREAKDOWN ===
+Rows with 0 MW: 4563 (92.6%)
+Rows with >0 MW: 363 (7.4%)
+Rows with >5 MW: 204
+Rows with >20 MW: 85
