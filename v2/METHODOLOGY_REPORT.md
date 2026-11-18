@@ -3,13 +3,15 @@
 **IE / Iberdrola Sustainability Datathon 2026**
 **Team approach: v2 — Hybrid Coverage + Demand Model**
 
+> Original team methodology, retained with publication clarifications. Saved CSV totals were checked locally on 2026-11-18; the full geospatial pipeline was not rerun. The 60 km spacing is a design target, not an independently verified network guarantee. See [reproduction requirements](../docs/REPRODUCING.md) and [credits](../docs/CREDITS.md).
+
 ---
 
 ## 1. Executive Summary
 
 This pipeline proposes **603 new interurban fast-charging stations** across Spain's motorway and national road network for a **2027 operational scenario**. The methodology is a **hybrid model** that combines two complementary layers:
 
-1. **Coverage layer** — guarantees no corridor gap exceeds 60 km between fast chargers, eliminating range anxiety.
+1. **Coverage layer** — targets corridor gaps of at most 60 km between fast chargers.
 2. **Demand-reinforcement layer** — identifies segments where projected EV traffic outstrips existing charging supply and places additional capacity.
 
 These two candidate pools are merged, sized according to local demand, tested against the electrical grid, and phased into a three-stage deployment roadmap.
@@ -70,7 +72,7 @@ s05_grid_feasibility.py  Grid matching, adaptive sizing loop, friction points
 s06_prioritize_and_output.py  Priority scoring, phasing, File 1/2/3, BI map
 ```
 
-All parameters are centralized in `config.py` for easy sensitivity testing.
+Main planning parameters are centralized in `config.py` for sensitivity testing.
 
 ---
 
@@ -103,7 +105,7 @@ All parameters are centralized in `config.py` for easy sensitivity testing.
 
 ### Step 2 — Coverage Layer
 
-**Purpose:** Guarantee that no interurban corridor has a gap longer than 60 km between fast chargers.
+**Purpose:** Generate coverage candidates targeting gaps of at most 60 km. Post-siting, route-level coverage still needs independent validation.
 
 **Method:**
 
@@ -377,7 +379,7 @@ All components are min-max normalized to [0, 1]. The final score is also rescale
 | Phase | Criteria | Stations |
 |---|---|---|
 | **Phase 1** | Priority >= 0.30 AND grid Sufficient | 159 |
-| **Phase 2** | Priority >= 0.12 (or Moderate grid) | 374 |
+| **Phase 2** | Priority >= 0.12 after Phase 1 selection; excluding Congested grid | 374 |
 | **Phase 3** | Low priority OR grid Congested | 70 |
 
 **Phase vs. candidate type:**
@@ -485,7 +487,7 @@ The following parameters should be stress-tested:
 
 ## 10. Reproducibility
 
-The full pipeline runs from pre-processed data in approximately 5–10 minutes:
+The original team reported a 5–10 minute runtime from pre-processed data. That timing has not been reproduced during publication preparation:
 
 ```bash
 cd v2/
@@ -494,4 +496,4 @@ conda run -n datathon python run_pipeline.py
 
 All intermediate files are saved to `v2/intermediate/` as GeoPackage files for inspection. Output CSVs are written to `outputs/v2/`. The interactive map is saved to `visualizations/v2_ev_network_map.html`.
 
-Every parameter is defined in `config.py` — no magic numbers are embedded in pipeline scripts.
+Main planning parameters are defined in `config.py`; some implementation constants remain in the step scripts.

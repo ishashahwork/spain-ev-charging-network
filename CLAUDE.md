@@ -1,13 +1,15 @@
 # IE Sustainability Datathon — Iberdrola | Claude Setup
 
+> Historical challenge notes. See [README.md](README.md) for the current v2 entry point and verified publication status.
+
 ## Project Overview
 
 **Challenge:** Design an optimal public EV charging network for Spain's interurban road network (autopistas, autovías, carreteras nacionales) for a **2027 operational scenario**.
 
-**Organizer:** IE Business School × Iberdrola  
-**Working directory:** `C:/Users/LEGION/Desktop/MASTERS/Datathon/`  
-**Conda environment:** `datathon` (Python 3.11)  
-**Run Python via:** `conda run -n datathon python <script.py>`  
+**Organizer:** IE Business School × Iberdrola
+**Working directory:** repository root (use `v2/run_pipeline.py` for the current pipeline)
+**Conda environment:** `datathon` (Python 3.11)
+**Run Python via:** `conda run -n datathon python <script.py>`
 **Code must be delivered in:** Google Colab notebooks
 
 ---

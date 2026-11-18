@@ -1,13 +1,16 @@
-"""
-V2 Pipeline Runner — Hybrid EV Charging Network
-=================================================
-Runs all steps sequentially. Execute from the v2/ directory.
-"""
-import subprocess, sys, os, time
+"""Run the current pipeline from any working directory, with input checks."""
 
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+import argparse
+import os
+from pathlib import Path
+import subprocess
+import sys
+import time
 
-steps = [
+import config
+
+PIPELINE_DIR = Path(__file__).resolve().parent
+STEPS = [
     "s01_segment_roads.py",
     "s02_coverage_layer.py",
     "s03_demand_and_supply.py",
@@ -16,25 +19,48 @@ steps = [
     "s06_prioritize_and_output.py",
 ]
 
-print("=" * 60)
-print("V2 HYBRID EV CHARGING NETWORK PIPELINE")
-print("=" * 60)
 
-t0 = time.time()
-for i, step in enumerate(steps):
-    print(f"\n{'#' * 60}")
-    print(f"# Running {step} ({i+1}/{len(steps)})")
-    print(f"{'#' * 60}\n")
+def check_inputs():
+    """Check files without importing analysis libraries or writing outputs."""
+    required = [config.ROADS_GPKG, config.EV_BASELINE_CSV,
+                config.GRID_SUBS_GPKG, config.EV_PROJECTION_JSON]
+    missing = []
+    for relative in required:
+        path = (PIPELINE_DIR / relative).resolve()
+        exists = path.is_file() and path.stat().st_size > 0
+        print(f"{'OK' if exists else 'MISSING'}: {relative}")
+        if not exists:
+            missing.append(relative)
+    amenities = (PIPELINE_DIR / config.AMENITIES_DIR).resolve()
+    for name in ("fuel", "service_areas", "restaurants", "supermarkets", "hotels"):
+        if not (amenities / f"{name}.geojson").is_file():
+            print(f"WARNING: missing amenity layer {name}; scoring/siting will differ.")
+    if missing:
+        print("Restore required inputs using docs/REPRODUCING.md before running.")
+    return not missing
 
-    result = subprocess.run(
-        [sys.executable, step],
-        capture_output=False,
-    )
-    if result.returncode != 0:
-        print(f"\nERROR: {step} failed with exit code {result.returncode}")
-        sys.exit(1)
 
-elapsed = time.time() - t0
-print(f"\n{'=' * 60}")
-print(f"PIPELINE COMPLETE — {elapsed:.0f}s total")
-print(f"{'=' * 60}")
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check-inputs", action="store_true",
+                        help="report input availability without running analysis")
+    args = parser.parse_args()
+    ready = check_inputs()
+    if args.check_inputs or not ready:
+        return 0 if ready else 1
+
+    os.chdir(PIPELINE_DIR)
+    print("V2 HYBRID EV CHARGING NETWORK PIPELINE", flush=True)
+    started = time.monotonic()
+    for index, step in enumerate(STEPS, 1):
+        print(f"\nRunning {step} ({index}/{len(STEPS)})", flush=True)
+        result = subprocess.run([sys.executable, step], check=False)
+        if result.returncode:
+            print(f"ERROR: {step} failed with exit code {result.returncode}")
+            return result.returncode
+    print(f"PIPELINE COMPLETE — {time.monotonic() - started:.0f}s total")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

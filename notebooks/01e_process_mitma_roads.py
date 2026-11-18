@@ -26,8 +26,8 @@ import numpy as np
 import re
 from pathlib import Path
 
-BASE_RAW  = Path("C:/Users/LEGION/Desktop/MASTERS/Datathon/data/raw/mitma_rutas")
-BASE_OUT  = Path("C:/Users/LEGION/Desktop/MASTERS/Datathon/data/processed")
+BASE_RAW  = Path("data/raw/mitma_rutas")
+BASE_OUT  = Path("data/processed")
 LOG_FILE  = BASE_OUT / "mitma_roads_process_log.txt"
 
 BASE_OUT.mkdir(parents=True, exist_ok=True)

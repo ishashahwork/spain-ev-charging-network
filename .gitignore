@@ -49,3 +49,31 @@ report/v1/
 
 # ─── Claude Code internal ───
 .claude/
+
+# Local credentials and environments
+.env.*
+!.env.example
+.venv/
+venv/
+.aws/
+credentials.json
+service-account*.json
+token.json
+*.pem
+*.key
+
+# Regenerable caches, logs, and v2 intermediates
+*.log
+*.tmp
+*.swp
+*~
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+data/processed/*_log.txt
+data/processed/grid_inspect.txt
+data/processed/colocation_cache.json
+data/processed/stations_colocation.csv
+v2/intermediate/

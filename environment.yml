@@ -19,9 +19,14 @@ dependencies:
   - lightgbm
   # Geospatial (common in energy/sustainability challenges)
   - geopandas
+  - shapely>=2
+  - pyproj
+  - pyogrio
   - folium
   # Notebooks
   - jupyterlab
+  - nbformat
+  - nbconvert
   - ipykernel
   - ipywidgets
   # Stats
@@ -29,12 +34,15 @@ dependencies:
   - statsmodels
   # Utilities
   - tqdm
+  - requests
   - python-dotenv
   # Parquet support
   - pyarrow
   # Geospatial
   - osmnx
   - pip:
+    # OSM PBF amenity extraction
+    - osmium
     # PDF reading
     - pdfplumber
     - PyPDF2

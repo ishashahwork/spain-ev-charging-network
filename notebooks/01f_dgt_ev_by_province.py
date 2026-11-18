@@ -29,8 +29,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-OUT_DIR  = Path("C:/Users/LEGION/Desktop/MASTERS/Datathon/data/processed")
-CACHE_DIR = Path("C:/Users/LEGION/Desktop/MASTERS/Datathon/data/raw/dgt_raw_province")
+OUT_DIR  = Path("data/processed")
+CACHE_DIR = Path("data/raw/dgt_raw_province")
 LOG_FILE = CACHE_DIR / "download_log.txt"
 
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -211,7 +211,7 @@ for zp in zip_paths:
 if not all_ev_records:
     log("\n  No province data found in ZIPs — falling back to baseline proxy")
     # Fallback: use EV charging stations per province as proxy
-    baseline = pd.read_csv("C:/Users/LEGION/Desktop/MASTERS/Datathon/data/processed/ev_charging_baseline.csv")
+    baseline = pd.read_csv("data/processed/ev_charging_baseline.csv")
     baseline["postcode_str"] = baseline["postcode"].astype(str).str.zfill(5)
     baseline["CPRO"] = baseline["postcode_str"].str[:2]
     prov_counts = baseline.groupby("CPRO")["n_connectors"].sum().reset_index()

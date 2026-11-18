@@ -2,7 +2,7 @@ import geopandas as gpd
 import pandas as pd
 import gzip
 
-BASE = "C:/Users/LEGION/Desktop/MASTERS/Datathon/data/raw/mitma_rutas"
+BASE = "data/raw/mitma_rutas"
 
 # ── 1. Shapefile ──────────────────────────────────────────────────────────────
 print("=" * 60)
